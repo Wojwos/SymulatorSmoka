@@ -1,2 +1,2 @@
 # SymulatorSmoka
-Projekt z Programowania Komputerów
+Symulator smoka inspirowany grą Tamagotchi.
